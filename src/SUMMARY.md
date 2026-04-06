@@ -93,3 +93,13 @@
 ---
 
 - [The Exploit Chain: From Bug to Code Execution](./part3-vulnerabilities/patterns/26-exploit-chain.md)
+
+---
+
+# Part IV: Active Research Log
+
+- [Introduction](./part4-research/00-introduction.md)
+
+---
+
+- [2026-04-06: Systematic Audit — Book-Guided V8 Security Research](./part4-research/2026-04-06-systematic-audit.md)
