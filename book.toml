@@ -1,0 +1,16 @@
+[book]
+authors = ["Micheal Keines"]
+language = "en"
+src = "src"
+title = "V8 Internals & Vulnerability Research"
+description = "Learn V8 internals by tracing JavaScript through every compilation tier, then learn to break them."
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+git-repository-url = ""
+additional-css = []
